@@ -1,4 +1,4 @@
-# Pantry Playground — The Cupboard Cookbook
+# The Cupboard Cookbook
 
 Eight original pantry-oriented recipe ideas, drawn as CSS plates and designed around a practical loop: pick what you have, find a dish, collect what is missing, then cook it.
 
